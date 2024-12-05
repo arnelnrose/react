@@ -1,0 +1,11 @@
+1. npm create vite@latest
+2. cd my-project
+3. npm install
+4. npm install primereact primeicons primeflex react-transition-group
+
+
+
+import 'primereact/resources/themes/lara-light-indigo/theme.css'; 
+import 'primereact/resources/primereact.min.css'; 
+import 'primeicons/primeicons.css';         
+import 'primeflex/primeflex.css';    
